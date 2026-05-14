@@ -16,4 +16,5 @@ Built an interactive Excel dashboard to analyze e-commerce sales performance, cu
 
 ## Project Preview
 
-![Dashboard Preview](dashboard-preview.png)
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8bd088dd-a89d-4437-ba06-6c1e52333058" />
